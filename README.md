@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/espatzxlogo-white.png" alt="SnapZX Logo" width="640" />
+</p>
+
 # ESPAT-ZX: AT Terminal for ZX Spectrum
 
 **Version 1.0** | [Leer en Español](README_ES.md)
